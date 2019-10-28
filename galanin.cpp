@@ -1,14 +1,16 @@
 #include <iostream>
 
+
+
 using namespace std;
 
 void privet()
 {
-	printf("Привет");
+	printf("Hello");
 }
 void poka()
 {
-	printf("Пока");
+	printf("Bye");
 }
 int galanin(int argc, char** argv)
 {
